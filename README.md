@@ -9,8 +9,7 @@ POST http://localhost:3000/encrypt
 
 
 POST data:
-{
-	"password": "mypassword",
+
+	{"password": "mypassword",
 	"username": "myuser",
-	"key": "somekey=7hcNewuVXhqDNAMGYq3hbt3NYnKmw==FvpIOivTukSjxku7fMie"
-}
+	"key": "somekey=7hcNewuVXhqDNAMGYq3hbt3NYnKmw==FvpIOivTukSjxku7fMie"}
